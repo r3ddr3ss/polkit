@@ -1,0 +1,2 @@
+# polkit
+Configure Polkit file
